@@ -1,0 +1,42 @@
+[
+  {
+    "query": "Java developer with Spring Boot experience",
+    "relevant_assessments": [
+      "Java Programming Test",
+      "Technical Skills Assessment"
+    ],
+    "category": "technical"
+  },
+  {
+    "query": "Data analyst with SQL and Python skills",
+    "relevant_assessments": [
+      "Numerical Reasoning Test",
+      "Data Analysis Assessment"
+    ],
+    "category": "analytical"
+  },
+  {
+    "query": "Customer service representative with communication skills",
+    "relevant_assessments": [
+      "Verbal Reasoning Test",
+      "Customer Service Simulation"
+    ],
+    "category": "service"
+  },
+  {
+    "query": "Marketing manager with digital marketing expertise",
+    "relevant_assessments": [
+      "Verbal Reasoning Test",
+      "Personality Assessment"
+    ],
+    "category": "management"
+  },
+  {
+    "query": "Software engineer with Python programming",
+    "relevant_assessments": [
+      "Python Programming Test",
+      "Logical Reasoning Test"
+    ],
+    "category": "technical"
+  }
+]

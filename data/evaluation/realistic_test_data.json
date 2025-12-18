@@ -1,0 +1,65 @@
+[
+  {
+    "query": "Java developer with Spring Boot experience",
+    "desired_test_types": [
+      "K",
+      "S"
+    ],
+    "desired_categories": [
+      "Cognitive",
+      "Skills"
+    ],
+    "min_relevant": 2
+  },
+  {
+    "query": "Data analyst with SQL and Python skills",
+    "desired_test_types": [
+      "K",
+      "N",
+      "L"
+    ],
+    "desired_categories": [
+      "Cognitive",
+      "Numerical"
+    ],
+    "min_relevant": 2
+  },
+  {
+    "query": "Customer service representative with communication skills",
+    "desired_test_types": [
+      "P",
+      "V",
+      "S"
+    ],
+    "desired_categories": [
+      "Personality",
+      "Verbal"
+    ],
+    "min_relevant": 2
+  },
+  {
+    "query": "Marketing manager with digital marketing expertise",
+    "desired_test_types": [
+      "P",
+      "V",
+      "K"
+    ],
+    "desired_categories": [
+      "Personality",
+      "Verbal"
+    ],
+    "min_relevant": 2
+  },
+  {
+    "query": "Software engineer with Python programming",
+    "desired_test_types": [
+      "K",
+      "L"
+    ],
+    "desired_categories": [
+      "Cognitive",
+      "Logical"
+    ],
+    "min_relevant": 2
+  }
+]

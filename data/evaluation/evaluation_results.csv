@@ -1,0 +1,11 @@
+query,k,recall,precision,relevant_count,has_recommendations
+Java developer with Spring Boot experience,5,0.0,0.0,2,True
+Java developer with Spring Boot experience,10,0.0,0.0,2,True
+Data analyst with SQL and Python skills,5,0.0,0.0,2,True
+Data analyst with SQL and Python skills,10,0.0,0.0,2,True
+Customer service representative with communication skills,5,0.0,0.0,2,True
+Customer service representative with communication skills,10,0.0,0.0,2,True
+Marketing manager with digital marketing expertise,5,0.0,0.0,2,True
+Marketing manager with digital marketing expertise,10,0.0,0.0,2,True
+Software engineer with Python programming,5,0.0,0.0,2,True
+Software engineer with Python programming,10,0.0,0.0,2,True

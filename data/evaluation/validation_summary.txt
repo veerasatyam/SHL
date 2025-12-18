@@ -1,0 +1,6 @@
+Train Data Validation Results
+=============================
+
+Average Precision@5: 14.00%
+Average Recall@5: 12.00%
+Total queries: 10

@@ -1,0 +1,11 @@
+query,k,recall,precision,relevant_found,total_recommendations
+Java developer with Spring Boot experience,5,1.5,0.6,3,5
+Java developer with Spring Boot experience,10,2.0,0.4,4,10
+Data analyst with SQL and Python skills,5,2.0,0.8,4,5
+Data analyst with SQL and Python skills,10,4.0,0.8,8,10
+Customer service representative with communication skills,5,2.5,1.0,5,5
+Customer service representative with communication skills,10,5.0,1.0,10,10
+Marketing manager with digital marketing expertise,5,2.5,1.0,5,5
+Marketing manager with digital marketing expertise,10,2.5,0.5,5,10
+Software engineer with Python programming,5,1.5,0.6,3,5
+Software engineer with Python programming,10,1.5,0.3,3,10

@@ -1,0 +1,3772 @@
+[
+  {
+    "assessment_name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "description": "Global Skills Development Report - A skills assessment of type AEBCDP",
+    "skills": "Skills skills assessment",
+    "test_type": "AEBCDP",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "description": ".NET Framework 4.5 - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "description": ".NET MVC (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "description": ".NET MVVM (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "description": ".NET WCF (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "description": ".NET WPF (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "description": ".NET XAML (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "description": "Accounts Payable (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "description": "Accounts Payable Simulation (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "description": "Accounts Receivable (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "description": "Accounts Receivable Simulation (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "description": "ADO.NET (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "description": "Adobe Experience Manager (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "description": "Adobe Photoshop CC - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "description": "Aeronautical Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "description": "Aerospace Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "description": "Agile Software Development - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "description": "Agile Testing (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "description": "AI Skills - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "description": "Amazon Web Services (AWS) Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "description": "Android Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "description": "Angular 6 (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "description": "AngularJS (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "description": "Apache Hadoop (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "description": "Apache Hadoop Extensions (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Apache HBase (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "description": "Apache HBase (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Apache Hive (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "description": "Apache Hive (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "description": "Apache Kafka (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Apache Pig (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "description": "Apache Pig (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Apache Spark (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "description": "Apache Spark (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "description": "ASP .NET with C# (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "description": "ASP.NET 4.5 - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "description": "Assessment and Development Center Exercises - A cognitive assessment of type E",
+    "skills": "Cognitive skills assessment",
+    "test_type": "E",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "description": "Automata - Fix (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "description": "Automata - SQL (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automata (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "description": "Automata (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "description": "Automata Data Science (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "description": "Automata Data Science Pro (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automata Front End",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "description": "Automata Front End - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automata Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "description": "Automata Pro (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automata Selenium",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "description": "Automata Selenium - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "description": "Automation Anywhere RPA Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "description": "Automotive Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Basic Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "description": "Basic Biology (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "description": "Basic Computer Literacy (Windows 10) (New) - A cognitive assessment of type SK",
+    "skills": "Cognitive skills assessment",
+    "test_type": "SK",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "description": "Basic Statistics (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Biochemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "description": "Biochemistry (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "description": "Biotech Lab Techniques (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "BizTalk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "description": "BizTalk (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "description": "Business Communication (adaptive) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Business Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "description": "Business Communications - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "C Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "description": "C Programming (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "C# Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "description": "C# Programming (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "C++ Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "description": "C++ Programming (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "description": "Cardiology and Diabetes Management (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "description": "Ceramic Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "description": "Chemical Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "description": "Cisco AppDynamics (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "description": "Civil Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "description": "Cloud Computing (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "description": "COBOL Programming (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Computer Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "description": "Computer Science (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "description": "Contact Center Call Simulation (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "description": "Conversational Multichat Simulation - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "Core Java (Advanced Level) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "description": "Core Java (Entry Level) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Count Out The Money",
+    "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "description": "Count Out The Money - A cognitive assessment of type KS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "KS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "CSS3 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "description": "CSS3 (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "description": "Culinary Skills (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "description": "Customer Service Phone Simulation - A skills assessment of type BS",
+    "skills": "Skills skills assessment",
+    "test_type": "BS",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "description": "Customer Service Phone Solution - A cognitive assessment of type BPS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "BPS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "description": "Cyber Risk (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Data Entry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "description": "Data Entry (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "description": "Data Entry Alphanumeric Split Screen - US - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "description": "Data Entry Numeric Split Screen - US - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "description": "Data Entry Ten Key Split Screen - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "description": "Data Science (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+    "description": "Data Warehousing Concepts - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "description": "Dependability and Safety Instrument (DSI) - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Dermatology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+    "description": "Dermatology (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Desktop Support (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+    "description": "Desktop Support (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+    "description": "Digital Advertising (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+    "description": "Digital Readiness Development Report - IC - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "description": "Digital Readiness Development Report - Manager - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "description": "Docker (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Dojo (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+    "description": "Dojo (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Drupal (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "description": "Drupal (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "description": "DSI v1.1 Interpretation Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Econometrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+    "description": "Econometrics (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Economics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "description": "Economics (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "description": "Electrical and Electronics Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Electrical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+    "description": "Electrical Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Electronics & Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "description": "Electronics & Telecommunications Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Electronics and Embedded Systems Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "description": "Electronics and Embedded Systems Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Electronics and Semiconductor Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "description": "Electronics and Semiconductor Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "English Comprehension (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "description": "English Comprehension (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+    "description": "Enterprise Java Beans (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "description": "Enterprise Leadership Report 1.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "description": "Enterprise Leadership Report 2.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "description": "Entry Level Cashier Solution - A cognitive assessment of type CP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "description": "Entry Level Customer Serv-Retail & Contact Center - A cognitive assessment of type PC",
+    "skills": "Cognitive skills assessment",
+    "test_type": "PC",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "description": "Entry Level Customer Service (General) Solution - A cognitive assessment of type CP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "description": "Entry Level Hotel Front Desk Solution - A cognitive assessment of type CP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "description": "Entry Level Sales Solution - A cognitive assessment of type CP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+    "description": "Entry Level Technical Support Solution - A skills assessment of type PC",
+    "skills": "Skills skills assessment",
+    "test_type": "PC",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "ETL Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+    "description": "ETL Testing (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Executive Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "description": "Executive Scenarios - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "description": "Executive Scenarios Narrative Report - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+    "description": "Executive Scenarios Profile Report - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "ExpressJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "description": "ExpressJS (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+    "description": "Filing - Names (R1) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Filing - Numbers",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+    "description": "Filing - Numbers - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "description": "Financial Accounting (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "description": "Financial and Banking Services (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+    "description": "Fire Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "description": "Following Instructions v1 - UK (R1) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "description": "Following Instructions v1 - US (R2) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+    "description": "Food and Beverage Services (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Food Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+    "description": "Food Science (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Front Office Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+    "description": "Front Office Management (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "description": "Fundamentals of Chemistry (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+    "description": "Fundamentals of Physics (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "General Diseases (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+    "description": "General Diseases (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+    "description": "Geoinformatics Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+    "description": "Geoscience Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "GIT (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "description": "GIT (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "description": "Global Skills Assessment - A skills assessment of type CK",
+    "skills": "Skills skills assessment",
+    "test_type": "CK",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "description": "Graduate Scenarios - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "description": "Graduate Scenarios Narrative Report - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "description": "Graduate Scenarios Profile Report - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Hibernate (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+    "description": "Hibernate (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "description": "HIPAA (Security) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "description": "HiPo Assessment Report 1.0 - A cognitive assessment of type CP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "description": "HiPo Assessment Report 2.0 - A cognitive assessment of type CP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "description": "HiPo Unlocking Potential Report 2.0 - A cognitive assessment of type C",
+    "skills": "Cognitive skills assessment",
+    "test_type": "C",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Housekeeping (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+    "description": "Housekeeping (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+    "description": "HTML/CSS (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "HTML5 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+    "description": "HTML5 (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Human Resources (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+    "description": "Human Resources (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+    "description": "IBM DataStage (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "description": "IBM Sterling Order Management System (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+    "description": "Industrial Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+    "description": "Informatica (Architecture) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+    "description": "Informatica (Developer) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Instrumentation Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+    "description": "Instrumentation Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "description": "Interpersonal Communications - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Interviewing and Hiring Concepts (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "description": "Interviewing and Hiring Concepts (U.S.) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "iOS Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+    "description": "iOS Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "description": "ITIL (IT Infrastructure Library) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "description": "Java 2 Platform Enterprise Edition 1.4 Fundamental - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Java 8 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "description": "Java 8 (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+    "description": "Java Design Patterns (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "description": "Java Frameworks (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "description": "Java Platform Enterprise Edition 7 (Java EE 7) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Java Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+    "description": "Java Web Services (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "JavaScript (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "description": "JavaScript (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Jenkins (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+    "description": "Jenkins (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Job Control Language (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+    "description": "Job Control Language (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "jQuery (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+    "description": "jQuery (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Kubernetes (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "description": "Kubernetes (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Linux Administration (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+    "description": "Linux Administration (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Linux Operating System",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+    "description": "Linux Operating System - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "description": "Linux Programming (General) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Load Runner (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+    "description": "Load Runner (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Management Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+    "description": "Management Scenarios - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "description": "Managerial Scenarios Candidate Report - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "description": "Managerial Scenarios Narrative Report - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "description": "Managerial Scenarios Profile Report - A behavioral assessment of type B",
+    "skills": "Behavioral skills assessment",
+    "test_type": "B",
+    "category": "Behavioral",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Manual Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+    "description": "Manual Testing (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "description": "Manufac. & Indust. - Mechanical & Vigilance 8.0 - A cognitive assessment of type AP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "AP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "description": "Manufac. & Indust. - Safety & Dependability 8.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+    "description": "Manufacturing & Industrial - Essential Focus 8.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+    "description": "Manufacturing & Industrial - Mechanical Focus 8.0 - A cognitive assessment of type AP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "AP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+    "description": "Manufacturing & Industrial - Vigilance Focus 8.0 - A cognitive assessment of type AP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "AP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Marketing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+    "description": "Marketing (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Maven (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+    "description": "Maven (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+    "description": "Mechanical Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+    "description": "Mechatronics Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "description": "Medical Terminology (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+    "description": "Metallurgical Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "description": "MFS 360 Enterprise Leadership Report - A cognitive assessment of type D",
+    "skills": "Cognitive skills assessment",
+    "test_type": "D",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "description": "MFS 360 UCF Group Report - A cognitive assessment of type D",
+    "skills": "Cognitive skills assessment",
+    "test_type": "D",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "description": "MFS 360 UCF Performance Potential Dev Tips Report - A cognitive assessment of type D",
+    "skills": "Cognitive skills assessment",
+    "test_type": "D",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "description": "MFS 360 UCF Standard Report - A cognitive assessment of type D",
+    "skills": "Cognitive skills assessment",
+    "test_type": "D",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "description": "Micro Focus Unified Functional Testing (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Microservices (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+    "description": "Microservices (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "description": "Microsoft Dynamics Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "description": "Microsoft Excel 365 - Essentials (New) - A cognitive assessment of type KS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "KS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "description": "Microsoft Excel 365 (New) - A cognitive assessment of type KS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "KS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "description": "Microsoft Outlook 2013 (adaptive) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "description": "Microsoft PowerPoint 365 - Essentials (New) - A cognitive assessment of type KS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "KS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Microsoft SQL Server 2014 Programming",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "description": "Microsoft SQL Server 2014 Programming - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Microsoft Windows Server 2012 Administration",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "description": "Microsoft Windows Server 2012 Administration - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "description": "Microsoft Word 365 - Essentials (New) - A cognitive assessment of type KS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "KS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "description": "Microsoft Word 365 (New) - A cognitive assessment of type SK",
+    "skills": "Cognitive skills assessment",
+    "test_type": "SK",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Mineral Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+    "description": "Mineral Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Mining Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+    "description": "Mining Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Mobility (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+    "description": "Mobility (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Molecular Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+    "description": "Molecular Biology (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MongoDB (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+    "description": "MongoDB (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Motivation Questionnaire MQM5",
+    "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "description": "Motivation Questionnaire MQM5 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MQ Candidate Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+    "description": "MQ Candidate Motivation Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MQ Employee Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+    "description": "MQ Employee Motivation Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MQ Motivation Report Pack",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+    "description": "MQ Motivation Report Pack - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MQ Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+    "description": "MQ Profile - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MS Access (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+    "description": "MS Access (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "description": "MS Excel (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "description": "MS Office Basic Computer Literacy (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "description": "MS Office Basic Computer Literacy (Sim) (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+    "description": "MS PowerPoint (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "description": "MS Word (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+    "description": "MuleSoft Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Multitasking Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+    "description": "Multitasking Ability - A cognitive assessment of type AKS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "AKS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "description": "Networking and Implementation (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Node.js (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+    "description": "Node.js (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Nursing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+    "description": "Nursing (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "Occupational Personality Questionnaire OPQ32r - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Operations Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+    "description": "Operations Management (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Candidate Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+    "description": "OPQ Candidate Plus Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Candidate Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+    "description": "OPQ Candidate Report 2.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Emotional Intelligence Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "description": "OPQ Emotional Intelligence Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "description": "OPQ Leadership Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Manager Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+    "description": "OPQ Manager Plus Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Manager Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "description": "OPQ Manager Plus Report 2.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Maximising your Learning Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "description": "OPQ Maximising your Learning Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "description": "OPQ MQ Sales Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Premium Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+    "description": "OPQ Premium Plus Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Premium Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "description": "OPQ Premium Plus Report 2.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+    "description": "OPQ Profile Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "description": "OPQ Team Impact Group Development Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "description": "OPQ Team Impact Individual Development Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+    "description": "OPQ Team Impact Selection Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "description": "OPQ Team Types & Leadership Styles Profile - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "description": "OPQ Team Types and Leadership Styles Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "description": "OPQ UCF Development Action Planner Report 1.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "description": "OPQ UCF Development Action Planner Report 2.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+    "description": "OPQ Universal Competency Report 1.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "description": "OPQ Universal Competency Report 2.0 - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+    "description": "OPQ User and Managers Report - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "OPQ User Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+    "description": "OPQ User Report - A cognitive assessment of type PS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "PS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Oracle DBA (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "description": "Oracle DBA (Advanced Level) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Oracle DBA (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "description": "Oracle DBA (Entry Level) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Oracle PL/SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+    "description": "Oracle PL/SQL (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Oracle WebLogic Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+    "description": "Oracle WebLogic Server (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Organic Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+    "description": "Organic Chemistry (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Paint Technology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+    "description": "Paint Technology (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Pediatrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+    "description": "Pediatrics (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Pega Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+    "description": "Pega Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Perl (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+    "description": "Perl (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Petrochemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+    "description": "Petrochemical Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Petroleum Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+    "description": "Petroleum Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Pharmaceutical Analysis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "description": "Pharmaceutical Analysis (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "description": "Pharmaceutical Chemistry (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+    "description": "Pharmaceutical Science (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+    "description": "Pharmaceutics (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Pharmacology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+    "description": "Pharmacology (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "PHP (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+    "description": "PHP (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "PJM Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+    "description": "PJM Development Report - A cognitive assessment of type CAP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CAP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "PJM Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+    "description": "PJM Selection Report - A cognitive assessment of type ACP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "ACP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+    "description": "Polymer Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+    "description": "Power Electronics and Drives (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+    "description": "Power System Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Prism (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+    "description": "Prism (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "description": "Production and Industrial Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Production Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+    "description": "Production Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Programming Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+    "description": "Programming Concepts - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Project Management (2013)",
+    "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+    "description": "Project Management (2013) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Proofreading v1",
+    "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+    "description": "Proofreading v1 - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Python (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "description": "Python (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "R Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+    "description": "R Programming (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "ReactJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+    "description": "ReactJS (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Reading Comprehension - English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+    "description": "Reading Comprehension - English v1 - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Reading Comprehension - Spanish v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "description": "Reading Comprehension - Spanish v1 - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Reading Comprehension v2",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+    "description": "Reading Comprehension v2 - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "RemoteWorkQ",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+    "description": "RemoteWorkQ - A cognitive assessment of type C",
+    "skills": "Cognitive skills assessment",
+    "test_type": "C",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "RemoteWorkQ Manager Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+    "description": "RemoteWorkQ Manager Report - A cognitive assessment of type C",
+    "skills": "Cognitive skills assessment",
+    "test_type": "C",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+    "description": "RemoteWorkQ Participant Report - A cognitive assessment of type C",
+    "skills": "Cognitive skills assessment",
+    "test_type": "C",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "description": "RESTful Web Services (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "description": "Retail Sales and Service Simulation - A skills assessment of type BKSA",
+    "skills": "Skills skills assessment",
+    "test_type": "BKSA",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+    "description": "Reviewing Forms - US (R1) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Ruby (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+    "description": "Ruby (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+    "description": "Ruby on Rails (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "description": "Sales & Service Phone Simulation - A skills assessment of type SB",
+    "skills": "Skills skills assessment",
+    "test_type": "SB",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+    "description": "Sales & Service Phone Solution - A cognitive assessment of type BPS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "BPS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Sales Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+    "description": "Sales Interview Guide - A cognitive assessment of type PP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "PP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+    "description": "Sales Profiler Cards - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "description": "Sales Transformation 1.0 - Individual Contributor - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "description": "Sales Transformation 2.0 - Individual Contributor - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Sales Transformation Report 1.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "description": "Sales Transformation Report 1.0 - Sales Manager - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Sales Transformation Report 2.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "description": "Sales Transformation Report 2.0 - Sales Manager - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Salesforce Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+    "description": "Salesforce Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SAP ABAP (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "description": "SAP ABAP (Advanced Level) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SAP ABAP (Intermediate Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "description": "SAP ABAP (Intermediate Level) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SAP Basis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+    "description": "SAP Basis (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SAP Business Objects WebI (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+    "description": "SAP Business Objects WebI (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SAP BW (Business Warehouse) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "description": "SAP BW (Business Warehouse) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SAP HCM (Human Capital Management) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "description": "SAP HCM (Human Capital Management) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SAP Hybris (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+    "description": "SAP Hybris (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SAP Materials Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+    "description": "SAP Materials Management (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SAP SD (Sales and Distribution) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "description": "SAP SD (Sales and Distribution) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+    "description": "Search Engine Optimization (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Selenium (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+    "description": "Selenium (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Shell Scripting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+    "description": "Shell Scripting (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "description": "SHL Verify Interactive - Inductive Reasoning - A logical assessment of type AS",
+    "skills": "Logical skills assessment",
+    "test_type": "AS",
+    "category": "Logical",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "SHL Verify Interactive – Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "description": "SHL Verify Interactive – Deductive Reasoning - A logical assessment of type AS",
+    "skills": "Logical skills assessment",
+    "test_type": "AS",
+    "category": "Logical",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "SHL Verify Interactive – Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "description": "SHL Verify Interactive – Numerical Reasoning - A numerical assessment of type AS",
+    "skills": "Numerical skills assessment",
+    "test_type": "AS",
+    "category": "Numerical",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "description": "SHL Verify Interactive G+ - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "description": "SHL Verify Interactive Numerical Calculation - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Siebel Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+    "description": "Siebel Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Smart Interview Live",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+    "description": "Smart Interview Live - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "description": "Smart Interview Live Coding - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+    "description": "Smart Interview On Demand - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Social Media (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+    "description": "Social Media (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Software Business Analysis",
+    "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+    "description": "Software Business Analysis - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "SonarQube (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+    "description": "SonarQube (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+    "description": "Spelling (U.S.) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "description": "Split Screen Typing Test - Form 1 - A cognitive assessment of type AK",
+    "skills": "Cognitive skills assessment",
+    "test_type": "AK",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "description": "Spring (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "description": "SQL (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SQL Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+    "description": "SQL Server (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "description": "SQL Server Analysis Services (SSAS) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "description": "SQL Server Integration Services (SSIS) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "description": "SQL Server Reporting Services (SSRS) (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+    "description": "Statistical Analysis System (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Struts (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+    "description": "Struts (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SVAR - Spoken English (AUS)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+    "description": "SVAR - Spoken English (AUS) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SVAR - Spoken English (Indian Accent)  (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "description": "SVAR - Spoken English (Indian Accent)  (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SVAR - Spoken English (U.K.)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+    "description": "SVAR - Spoken English (U.K.) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SVAR - Spoken English (US)  (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "description": "SVAR - Spoken English (US)  (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SVAR - Spoken French (Canadian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "description": "SVAR - Spoken French (Canadian) (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SVAR - Spoken French (European) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+    "description": "SVAR - Spoken French (European) (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "description": "SVAR - Spoken Spanish (Castilian) (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "SVAR - Spoken Spanish (North American) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "description": "SVAR - Spoken Spanish (North American) (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Swing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+    "description": "Swing (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Tableau (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+    "description": "Tableau (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+    "description": "Telecommunications Engineering (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Teradata Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "description": "Teradata Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "description": "Time Management (U.S.) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Training Development",
+    "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "description": "Training Development - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Typing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "description": "Typing (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "description": "UiPath RPA Development (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "description": "Universal Competency Framework Interview Guide - A cognitive assessment of type CP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "description": "Universal Competency Framework Job profiling guide - A cognitive assessment of type CP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "description": "Universal Competency Framework Profiler Cards (44) - A cognitive assessment of type CP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "CP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "UNIX (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "description": "UNIX (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "VB.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "description": "VB.NET (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "description": "Verify - Deductive Reasoning - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "description": "Verify - Following Instructions - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Verify - G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "description": "Verify - G+ - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "description": "Verify - General Ability Screen - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "description": "Verify - Inductive Reasoning (2014) - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "description": "Verify - Numerical Ability - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "description": "Verify - Technical Checking - Next Generation - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "description": "Verify - Verbal Ability - Next Generation - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Verify - Working with Information",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "description": "Verify - Working with Information - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Verify G+ - Ability Test Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "description": "Verify G+ - Ability Test Report - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Verify G+ - Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "description": "Verify G+ - Candidate Report - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "description": "Verify Interactive Ability Report - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Verify Interactive G+ Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "description": "Verify Interactive G+ Candidate Report - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Verify Interactive G+ Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "description": "Verify Interactive G+ Report - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "description": "Verify Interactive Process Monitoring - A aptitude assessment of type A",
+    "skills": "Aptitude skills assessment",
+    "test_type": "A",
+    "category": "Aptitude",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "description": "Virtual Assessment and Development Centers - A personality assessment of type P",
+    "skills": "Personality skills assessment",
+    "test_type": "P",
+    "category": "Personality",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "description": "Visual Basic for Applications (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "description": "Visual Comparison - UK - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Visual Comparison - US",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "description": "Visual Comparison - US - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "description": "VLSI and Embedded Systems (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "What Is The Value - US",
+    "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "description": "What Is The Value - US - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "description": "Workplace Administration Skills (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "description": "Workplace Health and Safety (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "description": "WriteX - Email Writing (Customer Service) (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "description": "WriteX - Email Writing (Managerial) (New) - A skills assessment of type S",
+    "skills": "Skills skills assessment",
+    "test_type": "S",
+    "category": "Skills",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "description": "WriteX - Email Writing (Sales) (New) - A cognitive assessment of type BS",
+    "skills": "Cognitive skills assessment",
+    "test_type": "BS",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "Written English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "description": "Written English v1 - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Written Spanish",
+    "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "description": "Written Spanish - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes"
+  },
+  {
+    "assessment_name": "Zabbix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "description": "Zabbix (New) - A cognitive assessment of type K",
+    "skills": "Cognitive skills assessment",
+    "test_type": "K",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "360 Digital Report",
+    "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "description": "360 Digital Report - A cognitive assessment of type D",
+    "skills": "Cognitive skills assessment",
+    "test_type": "D",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  },
+  {
+    "assessment_name": "360° Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "description": "360° Multi-Rater Feedback System (MFS) - A cognitive assessment of type DP",
+    "skills": "Cognitive skills assessment",
+    "test_type": "DP",
+    "category": "Cognitive",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No"
+  }
+]
